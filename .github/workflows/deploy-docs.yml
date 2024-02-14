@@ -23,8 +23,8 @@ jobs:
 
       - run: npm run build
         env: 
-          TURBO_TOKEN:
-          TURBO_TEAM:
+          TURBO_TOKEN: 54M9f4tFByziGf9XYhlO3ZQ7
+          TURBO_TEAM: pejamp
 
       - name: Deploy storybook
         working-directory: ./packages/docs
