@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@pejamp-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,10 +14,10 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@pejamp-ui/eslint-config": "*",
+    "@pejamp-ui/react": "*",
+    "@pejamp-ui/tokens": "*",
+    "@pejamp-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.13",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
